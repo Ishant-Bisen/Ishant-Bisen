@@ -21,7 +21,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://codepen.io/anaghfire/pen/QEWadW" width="512px"/>
+<a href="https://codepen.io/anaghfire/pen/QEWadW" />
 
 ---
 [![ ](https://visitcount.itsvg.in/api?id=Ishant-Bisen&icon=0&color=0)](https://visitcount.itsvg.in)
